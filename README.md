@@ -263,6 +263,6 @@ Useful contributions:
 
 ## About the Author
 
-Chanchal Saini is a Research Analyst at AI DEV DAY, focused on turning compensation datasets and hiring signals into actionable career frameworks for engineers navigating the AI talent market. All salary figures in this repo are sourced from public job postings, verified offer data, and published research reports — no invented numbers.
+Rishabh Saini is an AI Tools & Content Engineer passionate about artificial intelligence, automation, and creative technology. He is currently working with AgileWoW, an AI and Agile-focused learning and consulting platform that helps teams and organizations adopt modern AI-driven workflows and agile practices.
 
-[aidevdayindia.org](https://aidevdayindia.org/)
+[LinkedIn](https://www.linkedin.com/in/rishabh-saini-ba9832290/)
