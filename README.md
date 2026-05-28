@@ -12,7 +12,7 @@ Salary bands, a 90-day entry plan, 50 interview questions with worked frameworks
 - **[50 interview questions + frameworks](#-50-fde-interview-questions-with-answer-frameworks)** — Technical, decomposition cases, and behavioral with how-to-think guidance
 - **[Remote/hybrid job landscape](#-remote-and-hybrid-fde-jobs-the-real-numbers)** — Work-mode breakdown, GCC hiring, visa traps
 - **[Adjacent roles](#-adjacent-roles-in-the-fde-ecosystem)** — AI Red Team Engineer, AI PM, Context Engineer
-- **[`data/fde-salary-bands-2026.csv`](./data/fde-salary-data.csv)** — Machine-readable comp table for all levels and geographies
+- **[`data/fde-salary-bands-2026.csv`](./data/fde-salary-bands-2026.csv)** — Machine-readable comp table for all levels and geographies
 - **[`data/README.md`](./data/README.md)** — Column definitions and source notes
 - **[`CHEATSHEET.md`](./CHEATSHEET.md)** — One-page role definitions, decision trees, and comparison tables
 - **[`interview-prep.md`](./interview-prep.md)** — All 50 questions expanded with frameworks, case scripts, and scoring signals
